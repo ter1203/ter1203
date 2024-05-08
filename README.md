@@ -1,6 +1,6 @@
 <h1 align="center">- Hi there 👋 -</h1>
 <p>Decoding the mysteries of the web, one line of code at a time! 🚀 With a decade of taming JavaScript and Python, I've earned my cape as a Frontend Superhero and Fullstack Connoisseur.</p>
-<p>Senior Fullstack Engineer by day, pixel whisperer by night. I've been bending JavaScript to my will for 10 years and Python for 5 years, crafting digital experiences that delight and dazzle. 🌟</p>
+<p>Senior Fullstack Engineer by day, pixel whisperer by night. I've been bending these to my will for 10 years, crafting digital experiences that delight and dazzle. 🌟</p>
 <p>In a world of semicolons and curly braces, I am the one who brings order. With 10 years under my belt, I turn coffee into code and dreams into digital realities. ☕💻🌈</p>
 <p>Code is poetry, and I've been writing sonnets in JavaScript/Python and frameworks for a decade. As a Senior Fullstack Engineer, I blend art and science to create a magic. ✨</p>
 <p>Hello World! I've been greeting the web with these words for 10 years as a Senior Fullstack Engineer. Frontend is my playground, backend my sandbox, where I build castles in the cloud. 🏰☁️</p>
