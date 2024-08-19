@@ -13,3 +13,25 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 </p>
+<p align="center" display="flex">
+    <a href="https://www.credly.com/badges/e2866988-a9a9-4965-ac59-1f49e9a811a8/public_url">
+        <img width="32%" src="front-end-development-with-react.png" />
+    </a>
+    <a href="https://www.credly.com/badges/602cbaae-c500-4c81-bbf2-1132879a1c6d/public_url">
+        <img width="32%" src="introduction-to-cloud-computing.png" />
+    </a>
+    <a href="https://www.credly.com/badges/29630d08-2b98-4611-9536-2540c15cf1ca/public_url">
+        <img width="32%" src="bentley-accredited-developer-itwin-platform-associate.png" />
+    </a>
+</p>
+<p align="center" display="flex">
+    <a href="https://www.credly.com/badges/c714dc3e-6161-4931-85ae-9ff6827622a2/public_url">
+        <img width="32%" src="web-development-fundamentals.png" />
+    </a>
+    <a href="https://www.credly.com/badges/b1859f53-66f3-4bc3-8626-6fab93c5d350/public_url">
+        <img width="32%" src="cloud-computing-fundamentals.png" />
+    </a>
+    <a href="https://www.credly.com/badges/832bfde7-6af3-4d9c-a7f6-02db16bd54bc/public_url">
+        <img width="32%" src="ibm-mq-on-aws-cloud-developer-essentials.png" />
+    </a>
+</p>
